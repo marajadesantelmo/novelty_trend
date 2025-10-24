@@ -1,0 +1,36 @@
+# Credentials and secrets
+tokens.py
+credenciales_gsheets.json
+.env
+.env.local
+
+# Development files
+playground.py
+ver_*
+migracion.py
+
+# Resources and uploads
+recursos/*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
