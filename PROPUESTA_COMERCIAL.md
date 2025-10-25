@@ -2,12 +2,12 @@
 
 **Fecha:** 25 de Octubre de 2025  
 **Cliente:** Novelty Trend S.A.  
-**Proveedor:** Pymetech
+**Proveedor:** Pymetech  
 **Validez de la Propuesta:** 30 días
 
 ---
 
-## 1. Resumen Ejecutivo
+## Resumen Ejecutivo
 
 Presentamos una propuesta integral para el desarrollo de un Sistema de Gestión Empresarial (ERP) personalizado para Novelty Trend. 
 
@@ -15,16 +15,16 @@ El sistema permitirá gestionar de manera eficiente y centralizada las operacion
 
 ### Inversión Total
 **U$D 4.000** (Cuatro mil dólares estadounidenses)
-a
+
 ### Tecnologías Propuestas
-- **Prototipado Rápido:** Streamlit (Python) para validación de funcionalidades
+- **Prototipado:** Streamlit (Python) para validación de funcionalidades
 - **Aplicación de Producción:** TypeScript con Lovable para desarrollo web profesional
-- **Base de Datos:** PostgreSQL en Supabase (escalable y segura)
+- **Base de Datos:** PostgreSQL en Supabase
 - **Integración Hardware:** Sistema de escaneo de códigos de barras
 
 ---
 
-## 2. Alcance del Proyecto
+## Alcance del Proyecto
 
 ### 2.1. Objetivos del Sistema
 
@@ -43,31 +43,7 @@ a
 
 ---
 
-## 3. Metodología de Desarrollo
-
-### Enfoque Dual de Desarrollo
-
-**1. Streamlit (Prototipado)**
-- Desarrollo ágil de prototipos funcionales
-- Validación rápida de requerimientos con el cliente
-- Iteraciones semanales con feedback continuo
-- Entrega de MVP (Producto Mínimo Viable) funcional
-
-**2. TypeScript + Lovable (Producción)**
-- Desarrollo simultáneo de la versión de producción
-- Interfaz profesional responsive (web/mobile)
-- Rendimiento optimizado y mejor experiencia de usuario
-- Código mantenible y escalable a largo plazo
-
-**3. Base de Datos Unificada**
-- PostgreSQL en Supabase para ambas versiones
-- Esquema único garantiza consistencia de datos
-- Migración transparente de prototipo a producción
-- Backups automáticos y alta disponibilidad
-
----
-
-## 4. Plan de Trabajo - Fases y Entregables
+## Plan de Trabajo - Fases y Entregables
 
 ### **FASE 1: Módulos Operativos Principales**
 **Duración:** 4 semanas  
@@ -210,7 +186,7 @@ a
 
 ---
 
-## 5. Cronograma General
+## Cronograma General
 
 | Fase | Descripción | Duración | Semanas |
 |------|-------------|----------|---------|
@@ -223,7 +199,7 @@ a
 
 ---
 
-## 6. Esquema de Pagos
+## Esquema de Pagos
 
 ### Inversión Inicial: U$D 4.000
 
@@ -239,7 +215,7 @@ a
 
 ---
 
-## 7. Mantenimiento y Soporte Post-Implementación
+## Mantenimiento y Soporte Post-Implementación
 
 ### Servicio de Mantenimiento Mensual: U$D 200
 
