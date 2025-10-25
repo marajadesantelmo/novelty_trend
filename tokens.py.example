@@ -1,7 +1,0 @@
-"""
-Template de configuración para Supabase
-Renombrar a tokens.py y completar con tus credenciales reales
-"""
-
-url_supabase = 'https://TU-PROYECTO.supabase.co'
-key_supabase = 'TU_SUPABASE_SERVICE_ROLE_KEY_AQUI'
