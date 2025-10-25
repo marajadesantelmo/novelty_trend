@@ -26,7 +26,7 @@ El sistema permitirá gestionar de manera eficiente y centralizada las operacion
 
 ## Alcance del Proyecto
 
-### 2.1. Objetivos del Sistema
+### Objetivos del Sistema
 
 1. **Centralizar** la información de stock, ventas, clientes y proveedores
 2. **Automatizar** procesos de facturación, cobranzas y gestión de inventario
@@ -34,7 +34,7 @@ El sistema permitirá gestionar de manera eficiente y centralizada las operacion
 4. **Mejorar** la trazabilidad de rollos de tela desde contenedor hasta venta final
 5. **Facilitar** la toma de decisiones mediante dashboards ejecutivos en tiempo real
 
-### 2.2. Usuarios del Sistema
+### Usuarios del Sistema
 
 - **Administración:** Acceso completo a reportes financieros y KPIs
 - **Ventas:** Gestión de remitos, clientes y cuenta corriente
