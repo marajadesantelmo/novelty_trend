@@ -73,6 +73,11 @@ else:
 
     sidebar_css = """
     <style>
+    /* Hide default Streamlit page navigation */
+    [data-testid="stSidebarNav"] {
+        display: none;
+    }
+    
     [data-testid="stSidebar"] {
         background: linear-gradient(180deg, #101e3a 0%, #142542 55%, #1c2f53 100%);
         color: #f5f7ff;
